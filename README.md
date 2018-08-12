@@ -1,4 +1,4 @@
-##About
+## About
 
 This project is a simple Tic Tac Toe game I made as an introduction to React.
 
